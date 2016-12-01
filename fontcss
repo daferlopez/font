@@ -1,0 +1,4 @@
+@font-face{
+        font-family: tiza;
+        src: url("https://github.com/daferlopez/font/blob/master/DK%20Crayon%20Crumble.ttf") format("ttf");
+}
